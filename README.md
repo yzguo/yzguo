@@ -1,16 +1,17 @@
-## Hi there 👋
+# Yanzhen Guo
 
-<!--
-**yzguo/yzguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Physics major · University of Science and Technology of China (USTC)**
 
-Here are some ideas to get you started:
+I’m interested in the ideas and tools at the intersection of physics, computing, and engineering. This profile is a home for projects, experiments, and things I’m learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 **Website:** [yzguo.github.io](https://yzguo.github.io)
+- 🏫 **University:** [USTC](https://www.ustc.edu.cn/)
+- 💻 **Projects:** Browse my [repositories](https://github.com/yzguo?tab=repositories)
+
+## Selected work
+
+See the pinned repositories below for current projects. I’ll add concise descriptions and demos as each project is ready to share.
+
+## Elsewhere
+
+[GitHub](https://github.com/yzguo) · [Personal website](https://yzguo.github.io)
